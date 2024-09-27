@@ -1,0 +1,25 @@
+.navContainer {
+    background-color: #fff;
+    color: black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+}
+
+.logoContainer img {
+    width: 40px;
+    height: 40px;
+    color: black;
+}
+
+.logoContainer h1 {
+    margin-left: 10px;
+}
