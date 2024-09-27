@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hospital_Management/static/css/main.64288a36.css",
+    "main.js": "/Hospital_Management/static/js/main.b09a6152.js",
+    "index.html": "/Hospital_Management/index.html",
+    "main.64288a36.css.map": "/Hospital_Management/static/css/main.64288a36.css.map",
+    "main.b09a6152.js.map": "/Hospital_Management/static/js/main.b09a6152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64288a36.css",
+    "static/js/main.b09a6152.js"
+  ]
+}
